@@ -1,4 +1,4 @@
-# Life game
+# Game of life
 - This is a way to solve conway's game of life, I used [Ruby2d](https://www.ruby2d.com/) to show the functionality of the game on an external screen.
 
 # Usability
